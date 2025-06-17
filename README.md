@@ -72,9 +72,8 @@
 
 ![](https://cdn.jsdelivr.net/gh/Tipriest/blog-images@main/imgs/my_blog/2025%2F06%2F17%2Fc428ca4ca34151148922b42b24bfa6f7-%E5%AE%A4%E5%86%85-%E7%9B%B8%E6%9C%BA%E6%99%AF%E6%B7%B1.png)
 
-## chapter 9: animation
-
-![](https://cdn.jsdelivr.net/gh/Tipriest/blog-images@main/imgs/my_blog/2025%2F06%2F17%2F807d98d93c32874face7ca22b64a3952-%E6%96%87%E5%AD%97.mkv)
+## chapter 9: animation & ch10: dynamic snimation
+There are some videos listed in these two folders, but I don't know how to directly plugged them into README.md, pls check them in the folder or teach me how to add it in this page.
 
 
 
