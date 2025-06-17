@@ -1,3 +1,6 @@
+# README.md
+本仓库是Books仓库的一部分，系对《Blender+AI工具详解与实战》这本书的工程内容的复现，具体的展示可以观看该[bilibili视频](https://www.bilibili.com/video/BV16fNtz5Ehn/)
+
 ![](https://cdn.jsdelivr.net/gh/Tipriest/blog-images@main/imgs/my_blog/2025%2F06%2F11%2F9a9b242493eb463e3217579605892ab8-20250611145835021.png)
 
 ![](https://cdn.jsdelivr.net/gh/Tipriest/blog-images@main/imgs/my_blog/2025%2F06%2F11%2Fc7426851f98bf761ec6097d8cbde2603-20250611153612108.png)
